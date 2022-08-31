@@ -1,0 +1,54 @@
+body {
+  background-image: url(image/2/b_coffee.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+.kn {
+  background-image: url(image/2/b_input1.png);
+  background-repeat: no-repeat;
+  background-size: 100px 20px;
+  padding-right: 20px;
+
+}
+
+.line {
+  border-top: 2px dashed #000;
+  height: 18px;
+  width: 700px;
+  margin-left: 350px;
+  margin-top: 15px;
+}
+
+.line2 {
+  border-left: 2px dashed #000;
+  height: 700px;
+  margin-left: 200px;
+  margin-top: -380px;
+}
+.kn1{
+  background-image: url(image/2/gallery_btn_over.png);
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 20px;
+}
+.kn2{
+  background-image: url(image/2/gallery_btn.png);
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 20px;
+}
+.kn3{
+  background-image: url(image/2/gallery_btn.png);
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 20px;
+}
+.finish{
+
+}
+
+
+
